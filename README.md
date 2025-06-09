@@ -149,7 +149,7 @@ Se seleccionó **FHIR** por:
 
 ---
 
-## ✅ Resultados y Discusión
+## ✅ Resultados Esperados
 
 La aplicación de PROCUMED tendrá un impacto transformador en múltiples dimensiones del sistema sanitario cubano, destacándose:
 
@@ -165,24 +165,7 @@ La aplicación de PROCUMED tendrá un impacto transformador en múltiples dimens
 PROCUMED no solo mejorará la calidad de la atención médica y la eficiencia operativa, sino que también establecerá una base técnica para futuras innovaciones, como análisis epidemiológico automatizado, trazabilidad de medicamentos mediante blockchain y apoyo clínico con inteligencia artificial.
 
 Este proyecto tiene el potencial de transformar estructuralmente el sistema sanitario cubano.
-
 ---
-
-## 📚 Referencias
-
-1. [HIS 2.1 - Universidad de las Ciencias Informáticas](https://www.uci.cu/investigacion-y-desarrollo/productos/xavia/his-21)
-2. [FHIR Resource List - HL7](https://www.hl7.org/fhir/resourcelist.html)
-3. [Clojure Documentation - Atoms](https://clojure.org/reference/atoms)
-4. [Clojure Documentation - Agents](https://clojure.org/reference/agents)
-
----
-
-## 📄 Licencia
-
-Este artículo está bajo una licencia [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
----
-
 ## 👤 Autor
 
 **Samuel Carriles Baños**  
@@ -208,5 +191,10 @@ Universidad de las Ciencias Informáticas, La Habana, Cuba.
 - Visualización
 - Redacción – borrador original
 - Redacción – revisión y edición
+
+---
+## 📄 Licencia
+
+Este artículo está bajo una licencia [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 ---
