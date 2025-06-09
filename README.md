@@ -174,27 +174,3 @@ Este proyecto tiene el potencial de transformar estructuralmente el sistema sani
 Universidad de las Ciencias Informáticas, La Habana, Cuba.
 
 ---
-
-## 📝 Contribuciones del Autor
-
-- Conceptualización
-- Curación de datos
-- Análisis formal
-- Adquisición de fondos
-- Investigación
-- Metodología
-- Administración del proyecto
-- Recursos
-- Software
-- Supervisión
-- Validación
-- Visualización
-- Redacción – borrador original
-- Redacción – revisión y edición
-
----
-## 📄 Licencia
-
-Este artículo está bajo una licencia [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
----
