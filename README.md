@@ -2,7 +2,7 @@
 
 ![Build](https://img.shields.io/badge/build-passing-green)  
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue)  
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+[![Development Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/your-username/your-repo/labels/status%3A%20in%20development) 
 
 > Transformando el sistema sanitario cubano mediante la digitalización y la interoperabilidad de datos clínicos.
 
