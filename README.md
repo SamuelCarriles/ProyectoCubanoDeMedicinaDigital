@@ -1,8 +1,4 @@
 # 🏥 PROCUMED - Proyecto Cubano de Medicina Digital
-<div align="center">
-<img src="images/official logo.png" alt="logo PROCUMED" width="250">
-</div>
-
 ![Build](https://img.shields.io/badge/build-passing-green) [![License: MIT](https://img.shields.io/badge/license-MIT-70D69C)](https://opensource.org/licenses/MIT) 
 [![Development Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/your-username/your-repo/labels/status%3A%20in%20development) 
 
